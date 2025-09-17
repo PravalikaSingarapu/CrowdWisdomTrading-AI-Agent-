@@ -1,0 +1,72 @@
+{
+  "qualified_users": [
+    {
+      "username": "financepro_demo",
+      "user_id": "12345",
+      "followers_count": 15000,
+      "posts_per_week": 4.0,
+      "profile_url": "https://twitter.com/financepro_demo",
+      "bio": "Financial markets analyst, sharing daily market insights and trading strategies.",
+      "verified": true,
+      "recent_tweets_count": 8
+    },
+    {
+      "username": "stocktrader_demo",
+      "user_id": "67890",
+      "followers_count": 8500,
+      "posts_per_week": 4.0,
+      "profile_url": "https://twitter.com/stocktrader_demo",
+      "bio": "Day trader focusing on S&P 500 and tech stocks. Risk management is key!",
+      "verified": false,
+      "recent_tweets_count": 8
+    },
+    {
+      "username": "wallstreet_demo",
+      "user_id": "11111",
+      "followers_count": 25000,
+      "posts_per_week": 4.0,
+      "profile_url": "https://twitter.com/wallstreet_demo",
+      "bio": "Wall Street veteran with 15 years experience. Sharing market analysis and economic insights.",
+      "verified": true,
+      "recent_tweets_count": 8
+    }
+  ],
+  "statistics": {
+    "total_processing_time": 0.04,
+    "total_users_found": 3,
+    "total_users_filtered": 3,
+    "search_keywords_used": [
+      "US stock market",
+      "S&P 500",
+      "NASDAQ",
+      "Dow Jones",
+      "NYSE",
+      "Federal Reserve",
+      "Fed rate",
+      "interest rates",
+      "bond yields",
+      "Wall Street",
+      "stock picks",
+      "market analysis",
+      "earnings report",
+      "economic indicators",
+      "inflation data",
+      "GDP growth",
+      "unemployment rate",
+      "tech stocks",
+      "banking sector",
+      "energy sector",
+      "healthcare stocks",
+      "market volatility",
+      "bull market",
+      "bear market",
+      "market crash",
+      "IPO",
+      "stock split",
+      "dividend yield",
+      "P/E ratio",
+      "market cap"
+    ],
+    "timestamp": "2025-09-17T07:13:56.403575"
+  }
+}
