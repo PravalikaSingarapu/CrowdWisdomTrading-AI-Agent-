@@ -1,0 +1,90 @@
+2025-09-17 07:13:56,360 - WARNING - Twitter API not configured: TWITTER_BEARER_TOKEN environment variable not set. Running in demo mode.
+2025-09-17 07:13:56,364 - INFO - Flow started with ID: efb5289b-72e6-47a7-bb87-96f5df582054
+2025-09-17 07:13:56,366 - INFO - Starting CrowdWisdomTrading AI Agent search process
+2025-09-17 07:13:56,368 - INFO - Generating financial market keywords...
+2025-09-17 07:13:56,375 - INFO - 
+LiteLLM completion() model= gpt-4o-mini; provider = openai
+2025-09-17 07:13:56,394 - ERROR - Error generating additional keywords: litellm.AuthenticationError: AuthenticationError: OpenAIException - The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-09-17 07:13:56,397 - INFO - Searching for financial market users...
+2025-09-17 07:13:56,397 - INFO - Searching for users with 30 keywords
+2025-09-17 07:13:56,397 - INFO - Running in demo mode - returning sample data
+2025-09-17 07:13:56,400 - INFO - Filtering users based on criteria...
+2025-09-17 07:13:56,400 - INFO - Qualified user: @financepro_demo (15000 followers)
+2025-09-17 07:13:56,400 - INFO - Qualified user: @stocktrader_demo (8500 followers)
+2025-09-17 07:13:56,400 - INFO - Qualified user: @wallstreet_demo (25000 followers)
+2025-09-17 07:13:56,403 - INFO - Generating final output...
+2025-09-17 07:13:56,403 - INFO - Results saved to financial_creators_20250917_071356.json
+2025-09-17 07:13:56,404 - INFO - Processing completed in 0.04 seconds
+2025-09-17 07:13:56,404 - INFO - Found 3 qualified creators out of 3 total users
+2025-09-17 07:14:05,466 - WARNING - Twitter API not configured: TWITTER_BEARER_TOKEN environment variable not set. Running in demo mode.
+2025-09-17 07:14:05,471 - INFO - Flow started with ID: 250798fa-e5a8-4afd-8d9e-c13287db437a
+2025-09-17 07:14:05,473 - INFO - Starting CrowdWisdomTrading AI Agent search process
+2025-09-17 07:14:05,475 - INFO - Generating financial market keywords...
+2025-09-17 07:14:05,489 - INFO - 
+LiteLLM completion() model= gpt-4o-mini; provider = openai
+2025-09-17 07:14:05,514 - ERROR - Error generating additional keywords: litellm.AuthenticationError: AuthenticationError: OpenAIException - The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-09-17 07:14:05,517 - INFO - Searching for financial market users...
+2025-09-17 07:14:05,518 - INFO - Searching for users with 30 keywords
+2025-09-17 07:14:05,518 - INFO - Running in demo mode - returning sample data
+2025-09-17 07:14:05,521 - INFO - Filtering users based on criteria...
+2025-09-17 07:14:05,521 - INFO - Qualified user: @financepro_demo (15000 followers)
+2025-09-17 07:14:05,521 - INFO - Qualified user: @stocktrader_demo (8500 followers)
+2025-09-17 07:14:05,521 - INFO - Qualified user: @wallstreet_demo (25000 followers)
+2025-09-17 07:14:05,525 - INFO - Generating final output...
+2025-09-17 07:14:05,526 - INFO - Results saved to financial_creators_20250917_071405.json
+2025-09-17 07:14:05,526 - INFO - Processing completed in 0.05 seconds
+2025-09-17 07:14:05,526 - INFO - Found 3 qualified creators out of 3 total users
+2025-09-17 07:14:15,637 - WARNING - Twitter API not configured: TWITTER_BEARER_TOKEN environment variable not set. Running in demo mode.
+2025-09-17 07:14:15,643 - INFO - Flow started with ID: 9d3e3604-bc7e-49bc-94cc-993e27d45663
+2025-09-17 07:14:15,644 - INFO - Starting CrowdWisdomTrading AI Agent search process
+2025-09-17 07:14:15,647 - INFO - Generating financial market keywords...
+2025-09-17 07:14:15,655 - INFO - 
+LiteLLM completion() model= gpt-4o-mini; provider = openai
+2025-09-17 07:14:15,680 - ERROR - Error generating additional keywords: litellm.AuthenticationError: AuthenticationError: OpenAIException - The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-09-17 07:14:15,685 - INFO - Searching for financial market users...
+2025-09-17 07:14:15,685 - INFO - Searching for users with 30 keywords
+2025-09-17 07:14:15,685 - INFO - Running in demo mode - returning sample data
+2025-09-17 07:14:15,689 - INFO - Filtering users based on criteria...
+2025-09-17 07:14:15,689 - INFO - Qualified user: @financepro_demo (15000 followers)
+2025-09-17 07:14:15,690 - INFO - Qualified user: @stocktrader_demo (8500 followers)
+2025-09-17 07:14:15,690 - INFO - Qualified user: @wallstreet_demo (25000 followers)
+2025-09-17 07:14:15,693 - INFO - Generating final output...
+2025-09-17 07:14:15,694 - INFO - Results saved to financial_creators_20250917_071415.json
+2025-09-17 07:14:15,694 - INFO - Processing completed in 0.05 seconds
+2025-09-17 07:14:15,694 - INFO - Found 3 qualified creators out of 3 total users
+2025-09-17 07:18:42,590 - WARNING - Twitter API not configured: TWITTER_BEARER_TOKEN environment variable not set. Running in demo mode.
+2025-09-17 07:18:42,595 - INFO - Flow started with ID: a19cf664-3762-4cfb-9654-7f7278f41831
+2025-09-17 07:18:42,597 - INFO - Starting CrowdWisdomTrading AI Agent search process
+2025-09-17 07:18:42,600 - INFO - Generating financial market keywords...
+2025-09-17 07:18:42,609 - INFO - 
+LiteLLM completion() model= gpt-4o-mini; provider = openai
+2025-09-17 07:18:42,644 - ERROR - Error generating additional keywords: litellm.AuthenticationError: AuthenticationError: OpenAIException - The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-09-17 07:18:42,649 - INFO - Searching for financial market users...
+2025-09-17 07:18:42,649 - INFO - Searching for users with 30 keywords
+2025-09-17 07:18:42,649 - INFO - Running in demo mode - returning sample data
+2025-09-17 07:18:42,652 - INFO - Filtering users based on criteria...
+2025-09-17 07:18:42,652 - INFO - Qualified user: @financepro_demo (15000 followers)
+2025-09-17 07:18:42,652 - INFO - Qualified user: @stocktrader_demo (8500 followers)
+2025-09-17 07:18:42,653 - INFO - Qualified user: @wallstreet_demo (25000 followers)
+2025-09-17 07:18:42,656 - INFO - Generating final output...
+2025-09-17 07:18:42,656 - INFO - Results saved to financial_creators_20250917_071842.json
+2025-09-17 07:18:42,656 - INFO - Processing completed in 0.06 seconds
+2025-09-17 07:18:42,656 - INFO - Found 3 qualified creators out of 3 total users
+2025-09-17 07:19:08,603 - WARNING - Twitter API not configured: TWITTER_BEARER_TOKEN environment variable not set. Running in demo mode.
+2025-09-17 07:19:08,607 - INFO - Flow started with ID: 9aac4711-61ae-4cc6-8cff-556ffd478486
+2025-09-17 07:19:08,608 - INFO - Starting CrowdWisdomTrading AI Agent search process
+2025-09-17 07:19:08,610 - INFO - Generating financial market keywords...
+2025-09-17 07:19:08,618 - INFO - 
+LiteLLM completion() model= gpt-4o-mini; provider = openai
+2025-09-17 07:19:08,639 - ERROR - Error generating additional keywords: litellm.AuthenticationError: AuthenticationError: OpenAIException - The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-09-17 07:19:08,643 - INFO - Searching for financial market users...
+2025-09-17 07:19:08,643 - INFO - Searching for users with 30 keywords
+2025-09-17 07:19:08,643 - INFO - Running in demo mode - returning sample data
+2025-09-17 07:19:08,646 - INFO - Filtering users based on criteria...
+2025-09-17 07:19:08,646 - INFO - Qualified user: @financepro_demo (15000 followers)
+2025-09-17 07:19:08,646 - INFO - Qualified user: @stocktrader_demo (8500 followers)
+2025-09-17 07:19:08,646 - INFO - Qualified user: @wallstreet_demo (25000 followers)
+2025-09-17 07:19:08,649 - INFO - Generating final output...
+2025-09-17 07:19:08,650 - INFO - Results saved to financial_creators_20250917_071908.json
+2025-09-17 07:19:08,650 - INFO - Processing completed in 0.04 seconds
+2025-09-17 07:19:08,650 - INFO - Found 3 qualified creators out of 3 total users
